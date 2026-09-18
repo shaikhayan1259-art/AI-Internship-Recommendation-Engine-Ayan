@@ -1,0 +1,11 @@
+internship_id,title,company,domain,skills,location,duration,description
+I001,AI/ML Intern,TechNova,Artificial Intelligence,"Python, Machine Learning, Pandas, NumPy, Scikit-learn",Remote,3 months,"Build machine learning models and data pipelines."
+I002,Data Science Intern,DataBridge,Data Science,"Python, Pandas, SQL, Statistics, Machine Learning",Pune,2 months,"Analyze datasets and create predictive models."
+I003,Python Developer Intern,CodeCraft,Software Development,"Python, Flask, Git, REST API, SQL",Remote,3 months,"Develop backend services and APIs."
+I004,Data Analyst Intern,InsightWorks,Data Analytics,"Python, Pandas, SQL, Excel, Visualization",Mumbai,2 months,"Create dashboards and analyze business data."
+I005,Computer Vision Intern,VisionAI,Artificial Intelligence,"Python, OpenCV, NumPy, Deep Learning",Bengaluru,4 months,"Build computer vision prototypes."
+I006,NLP Intern,LanguageLabs,Artificial Intelligence,"Python, NLP, Scikit-learn, Transformers",Remote,3 months,"Develop natural language processing systems."
+I007,EV Analytics Intern,VoltEdge,Electric Vehicles,"Python, Pandas, SQL, Data Analytics",Pune,3 months,"Analyze EV charging and vehicle datasets."
+I008,Cloud Data Intern,CloudCore,Cloud Computing,"Python, SQL, AWS, Data Engineering",Hyderabad,3 months,"Build cloud data workflows."
+I009,Web Developer Intern,WebWorks,Web Development,"HTML, CSS, JavaScript, Flask, Git",Remote,2 months,"Build responsive web applications."
+I010,Research ML Intern,ResearchHub,Research,"Python, NumPy, Scikit-learn, Statistics",Pune,4 months,"Prototype and evaluate ML research ideas."
