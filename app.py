@@ -7,8 +7,8 @@ st.set_page_config(page_title="AI Internship Recommendation Engine", page_icon="
 @st.cache_resource
 def load_engine():
     return RecommendationEngine(
-        "data/internships.csv",
-        "data/interactions.csv"
+        "internships.csv",
+        "interactions.csv"
     )
 
 engine = load_engine()
